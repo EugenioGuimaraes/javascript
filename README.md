@@ -1,2 +1,2 @@
 # javascript
-primeiros passos com a linguagem JS.
+💻 primeiros passos com a linguagem JS.
